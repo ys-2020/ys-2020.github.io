@@ -4,7 +4,7 @@ main:
     authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
     conference_short: MLSys
     conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2306.00978
+    paper: https://arxiv.org/abs/2306.00978
     code: https://github.com/mit-han-lab/llm-awq
     image: ./assets/img/paper_teasers/awq_tinychat.png
 
@@ -12,6 +12,6 @@ main:
     authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
     conference_short: MICRO
     conference: 56th IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2023.
-    pdf: https://www.dropbox.com/scl/fi/obdku0kqxjlkvuom2opk4/paper.pdf?rlkey=0zmy8eq9fzllgkx54zsvwsecf&dl=0
+    paper: https://www.dropbox.com/scl/fi/obdku0kqxjlkvuom2opk4/paper.pdf?rlkey=0zmy8eq9fzllgkx54zsvwsecf&dl=0
     code: https://github.com/mit-han-lab/torchsparse
     image: ./assets/img/paper_teasers/torchsparsepp.png
