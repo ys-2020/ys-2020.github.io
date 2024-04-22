@@ -49,6 +49,12 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+
+        {% if site.location %}
+        <location style="font-size:1.10rem;">{{ site.location }}</location>
+        <br>
+        {% endif %}
+
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
