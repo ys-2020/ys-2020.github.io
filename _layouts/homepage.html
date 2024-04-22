@@ -29,9 +29,11 @@
     {% if site.auto_dark_mode %}
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="./assets/css/blogs.css">
     {% else %}
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    <link rel="stylesheet" href="./assets/css/blogs-no-dark-mode.css">
     {% endif %}
 
   </head>
@@ -49,7 +51,7 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
-        
+
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
