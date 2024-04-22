@@ -15,3 +15,10 @@ main:
     paper: https://www.dropbox.com/scl/fi/obdku0kqxjlkvuom2opk4/paper.pdf?rlkey=0zmy8eq9fzllgkx54zsvwsecf&dl=0
     code: https://github.com/mit-han-lab/torchsparse
     image: ./assets/img/paper_teasers/torchsparsepp.png
+
+  - title: "Heuristic Adaptability to Input Dynamics for SpMM on GPUs"
+    authors: Guohao Dai, Guyue Huang, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang.
+    conference_short: DAC
+    conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022.
+    paper: https://arxiv.org/abs/2202.08556
+    image: ./assets/img/paper_teasers/DASpMM.png
