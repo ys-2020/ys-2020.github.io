@@ -1,24 +1,18 @@
 main:
 
-  - title: "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration"
-    authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
-    conference_short: MLSys
-    conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024.
-    paper: https://arxiv.org/abs/2306.00978
-    code: https://github.com/mit-han-lab/llm-awq
-    image: ./assets/img/paper_teasers/awq_tinychat.png
+  - title: "TinyChat: Large Language Model on the Edge"
+    # authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
+    # conference_short: MLSys
+    # conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024.
+    paper: https://hanlab.mit.edu/blog/tinychat
+    code: https://github.com/mit-han-lab/llm-awq/tree/main/tinychat#tinychat-efficient-and-lightweight-chatbot-with-awq
+    image: ./assets/img/blog_teasers/TinyChat.png
 
-  - title: "TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs"
-    authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
-    conference_short: MICRO
-    conference: 56th IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2023.
-    paper: https://www.dropbox.com/scl/fi/obdku0kqxjlkvuom2opk4/paper.pdf?rlkey=0zmy8eq9fzllgkx54zsvwsecf&dl=0
-    code: https://github.com/mit-han-lab/torchsparse
-    image: ./assets/img/paper_teasers/torchsparsepp.png
+  - title: "TinyChat: Visual Language Models & Edge AI 2.0"
+    # authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
+    # conference_short: MICRO
+    # conference: 56th IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2023.
+    paper: https://hanlab.mit.edu/blog/tinychat-vlm
+    code: https://github.com/mit-han-lab/llm-awq/tree/main/tinychat#tinychat-efficient-and-lightweight-chatbot-with-awq
+    image: ./assets/img/blog_teasers/TinyChat_VILA.png
 
-  - title: "Heuristic Adaptability to Input Dynamics for SpMM on GPUs"
-    authors: Guohao Dai, Guyue Huang, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang.
-    conference_short: DAC
-    conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022. Best Paper Award Nominee.
-    paper: https://arxiv.org/abs/2202.08556
-    image: ./assets/img/paper_teasers/DASpMM.png
