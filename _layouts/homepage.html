@@ -2,6 +2,7 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{site.location}}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,9 +54,12 @@
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
+        {% if site.loacation %}
+        <loacation>{{ site.loacation }}</loacation>
         {% endif %}
+        <!-- {% if site.email %}
+        <email>{{ site.email }}</email>
+        {% endif %} -->
 
         <br>
         <br>
@@ -84,7 +88,7 @@
         </a>
         {% endif %}
 
-        {% if site.linkedin %}
+        {% if site.email %}
         <a style="margin: 0 5px 0 0" href="{{ site.email }}">
           <i class="fab fa-email"></i>
         </a>
