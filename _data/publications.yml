@@ -19,6 +19,6 @@ main:
   - title: "Heuristic Adaptability to Input Dynamics for SpMM on GPUs"
     authors: Guohao Dai, Guyue Huang, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang.
     conference_short: DAC
-    conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022.
+    conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022. Best Paper Award Nominee.
     paper: https://arxiv.org/abs/2202.08556
     image: ./assets/img/paper_teasers/DASpMM.png
