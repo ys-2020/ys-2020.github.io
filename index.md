@@ -11,8 +11,9 @@ My long-term goal is to build efficient machine learning systems for application
 
 ## News
 
-- **[March. 2023]** We have released an updated version of TinyChat. Visual Language Models (e.g. VILA) is supported! 
-- **[Feb. 2023]** AWQ is accepted by MLSys 2024!
+- **[2024/03]** 🔥 We have released an updated version of [TinyChat](https://github.com/mit-han-lab/llm-awq/tree/main/tinychat#tinychat-efficient-and-lightweight-chatbot-with-awq). Visual Language Models (e.g. [VILA](https://github.com/Efficient-Large-Model/VILA)) is supported! Play with our [demo](vila.hanlab.ai)!
+- **[2024/02]** 🔥 [AWQ](https://arxiv.org/abs/2306.00978) is accepted by [MLSys 2024](https://mlsys.org/)!
+- **[2023/10]** 🔥 I presented [TorchSparse++](https://www.dropbox.com/scl/fi/obdku0kqxjlkvuom2opk4/paper.pdf?rlkey=0zmy8eq9fzllgkx54zsvwsecf&dl=0) at [MICRO 2023](https://microarch.org/micro56/)! See the [video](https://www.youtube.com/watch?v=4gKYE9-YtP0) and [slides](https://www.dropbox.com/scl/fi/1004eifd5fjethuv089z0/torchsparse_micro23_slides.pdf?rlkey=vugxz974g87j4fxs0fivmysjp&dl=0) here!
 
 {% include_relative _includes/publications.md %}
 
