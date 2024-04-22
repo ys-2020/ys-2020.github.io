@@ -16,4 +16,6 @@ My long-term goal is to build efficient machine learning systems for application
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/blogs.md %}
+
 {% include_relative _includes/services.md %}
