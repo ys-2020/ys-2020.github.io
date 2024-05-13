@@ -11,7 +11,7 @@ main:
   - title: "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration"
     authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
     conference_short: MLSys
-    conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024.
+    conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024. <strong>(Best Paper Award)</strong>
     paper: https://arxiv.org/abs/2306.00978
     code: https://github.com/mit-han-lab/llm-awq
     image: ./assets/img/paper_teasers/awq_tinychat.png
