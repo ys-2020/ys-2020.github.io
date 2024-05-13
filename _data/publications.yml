@@ -11,10 +11,11 @@ main:
   - title: "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration"
     authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
     conference_short: MLSys
-    conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024. <strong>(Best Paper Award)</strong>
+    conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024. 
     paper: https://arxiv.org/abs/2306.00978
     code: https://github.com/mit-han-lab/llm-awq
     image: ./assets/img/paper_teasers/awq_tinychat.png
+    note: Best Paper Award
 
   - title: "TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs"
     authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
@@ -27,6 +28,7 @@ main:
   - title: "Heuristic Adaptability to Input Dynamics for SpMM on GPUs"
     authors: Guohao Dai, Guyue Huang, <strong>Shang Yang</strong>, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang.
     conference_short: DAC
-    conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022. Best Paper Award Nominee.
+    conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022. 
     paper: https://arxiv.org/abs/2202.08556
     image: ./assets/img/paper_teasers/DASpMM.png
+    note: Best Paper Award Nominee
