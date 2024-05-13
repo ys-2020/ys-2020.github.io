@@ -15,7 +15,7 @@ main:
     paper: https://arxiv.org/abs/2306.00978
     code: https://github.com/mit-han-lab/llm-awq
     image: ./assets/img/paper_teasers/awq_tinychat.png
-    note: Best Paper Award
+    notes: Best Paper Award
 
   - title: "TorchSparse++: Efficient Training and Inference Framework for Sparse Convolution on GPUs"
     authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
@@ -31,4 +31,4 @@ main:
     conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022. 
     paper: https://arxiv.org/abs/2202.08556
     image: ./assets/img/paper_teasers/DASpMM.png
-    note: Best Paper Award Nominee
+    notes: Best Paper Award Nominee
