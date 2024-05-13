@@ -1,5 +1,13 @@
 main:
 
+  - title: "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving"
+    authors: Yujun Lin*, Haotian Tang*, <strong>Shang Yang*</strong>, Zhekai Zhang, Guangxuan Xiao, Chuang Gan, Song Han
+    conference_short: arXiv
+    conference: <strong>(arXiv)</strong>, 2024.
+    paper: https://arxiv.org/abs/2405.04532
+    code: https://github.com/mit-han-lab/qserve
+    image: ./assets/img/paper_teasers/QServe.png
+
   - title: "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration"
     authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
     conference_short: MLSys
@@ -17,7 +25,7 @@ main:
     image: ./assets/img/paper_teasers/torchsparsepp.png
 
   - title: "Heuristic Adaptability to Input Dynamics for SpMM on GPUs"
-    authors: Guohao Dai, Guyue Huang, Shang Yang, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang.
+    authors: Guohao Dai, Guyue Huang, <strong>Shang Yang</strong>, Zhongming Yu, Hengrui Zhang, Yufei Ding, Yuan Xie, Huazhong Yang, Yu Wang.
     conference_short: DAC
     conference: 59th Design Automation Conference <strong>(DAC)</strong>, 2022. Best Paper Award Nominee.
     paper: https://arxiv.org/abs/2202.08556
