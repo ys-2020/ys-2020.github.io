@@ -4,9 +4,9 @@ layout: homepage
 
 ## Shang Yang
 
-I am a first-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EECS](https://eecs.mit.edu/), advised by [Prof. Song Han](https://songhan.mit.edu/). Before that, I received my Bachelor degree with highest honor from the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), Tsinghua University, China, where I was fortunate to be advised by [Prof. Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang).
+I am a second-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EECS](https://eecs.mit.edu/), advised by [Prof. Song Han](https://songhan.mit.edu/). Before that, I received my Bachelor degree with highest honor from the [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), Tsinghua University, China, where I was fortunate to be advised by [Prof. Yu Wang](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang).
 
-My long-term goal is to build efficient machine learning systems for applications at different scales, especially the Large Language Models (LLMs). Recently, I am activately working on the quantization of LLMs.
+My long-term goal is to build efficient machine learning systems for applications at different scales, especially the Large Language Models (LLMs). Recently, I am activately working on the efficient inference systems for LLMs/VLMs.
 
 
 ## News
