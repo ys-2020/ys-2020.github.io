@@ -2,8 +2,8 @@ main:
 
   - title: "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving"
     authors: Yujun Lin*, Haotian Tang*, <strong>Shang Yang*</strong>, Zhekai Zhang, Guangxuan Xiao, Chuang Gan, Song Han.
-    conference_short: arXiv
-    conference: <strong>arXiv</strong>, 2024.
+    conference_short: MLSys
+    conference: The Eighth Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2025. 
     paper: https://arxiv.org/abs/2405.04532
     code: https://github.com/mit-han-lab/qserve
     image: ./assets/img/paper_teasers/QServe.png
