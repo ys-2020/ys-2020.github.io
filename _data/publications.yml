@@ -1,11 +1,19 @@
 main:
 
+  - title: "LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention"
+    authors: <strong>Shang Yang*</strong>, Junxian Guo*, Haotian Tang, Qinghao Hu, Guangxuan Xiao, Jiaming Tang, Yujun Lin, Zhijian Liu, Yao Lu, Song Han.
+    conference_short: MLSys
+    conference: The Eighth Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2025. 
+    paper: https://arxiv.org/abs/2502.14866
+    code: https://github.com/mit-han-lab/omniserve
+    image: ./assets/img/paper_teasers/LServe.png
+
   - title: "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving"
     authors: Yujun Lin*, Haotian Tang*, <strong>Shang Yang*</strong>, Zhekai Zhang, Guangxuan Xiao, Chuang Gan, Song Han.
     conference_short: MLSys
     conference: The Eighth Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2025. 
     paper: https://arxiv.org/abs/2405.04532
-    code: https://github.com/mit-han-lab/qserve
+    code: https://github.com/mit-han-lab/omniserve
     image: ./assets/img/paper_teasers/QServe.png
 
   - title: "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration"
