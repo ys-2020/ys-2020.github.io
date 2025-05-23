@@ -1,0 +1,33 @@
+main:
+
+  - title: "TinyChat 2.0: Accelerating Edge AI with Efficient LLM and VLM Deployment"
+    # authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
+    # conference_short: MICRO
+    # conference: 56th IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2023.
+    authors: Explore the latest advancement in TinyChat - the 2.0 version with significant advancements in prefilling speed of Edge LLMs and VLMs. Apart from the 3-4x decoding speedups achieved with AWQ quantization, TinyChat 2.0 now delivers state-of-the-art Time-To-First-Token, which is 1.5-1.7x faster than the legacy version of TinyChat.
+    paper: https://hanlab.mit.edu/blog/tinychat20
+    code: https://github.com/mit-han-lab/llm-awq/tree/main/tinychat#tinychat-efficient-and-lightweight-chatbot-with-awq
+    image: ./assets/img/blog_teasers/tinychat-v2.png
+
+
+  - title: "TinyChat: Visual Language Models & Edge AI 2.0"
+    # authors: Haotian Tang*, <strong>Shang Yang*</strong>, Zhijian Liu, Ke Hong, Zhongming Yu, Xiuyu Li, Guohao Dai, Yu Wang, Song Han.
+    # conference_short: MICRO
+    # conference: 56th IEEE/ACM International Symposium on Microarchitecture <strong>(MICRO)</strong>, 2023.
+    authors: Explore the latest advancement in TinyChat and AWQ - the integration of Visual Language Models (VLM) on the edge! The exciting advancements in VLM allows LLMs to comprehend visual inputs, enabling seamless image understanding tasks like caption generation, question answering, and more. With the latest release, TinyChat now supports leading VLMs such as VILA, which can be easily quantized with AWQ, empowering users with seamless experience for image understanding tasks.
+    paper: https://hanlab.mit.edu/blog/tinychat-vlm
+    code: https://github.com/mit-han-lab/llm-awq/tree/main/tinychat#tinychat-efficient-and-lightweight-chatbot-with-awq
+    image: ./assets/img/blog_teasers/TinyChat_VILA.png
+
+
+  - title: "TinyChat: Large Language Model on the Edge"
+    # authors: Ji Lin*, Jiaming Tang*, Haotian Tang†, <strong>Shang Yang†</strong>, Wei-Ming Chen, Wei-Chen Wang, Guangxuan Xiao, Xingyu Dang, Chuang Gan, Song Han.
+    # conference_short: MLSys
+    # conference: The Seventh Annual Conference on Machine Learning and Systems <strong>(MLSys)</strong>, 2024.
+    authors: Running large language models (LLMs) on the edge is of great importance. In this blog, we introduce TinyChat, an efficient and lightweight system for LLM deployment on the edge. It runs Meta's latest LLaMA-2 model at 30 tokens / second on NVIDIA Jetson Orin and can easily support different models and hardware.
+    paper: https://hanlab.mit.edu/blog/tinychat
+    code: https://github.com/mit-han-lab/llm-awq/tree/main/tinychat#tinychat-efficient-and-lightweight-chatbot-with-awq
+    image: ./assets/img/blog_teasers/TinyChat.png
+
+
+

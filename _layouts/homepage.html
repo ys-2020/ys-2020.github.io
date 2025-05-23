@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{site.affiliation}} </title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,9 +29,11 @@
     {% if site.auto_dark_mode %}
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="./assets/css/blogs.css">
     {% else %}
     <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
+    <link rel="stylesheet" href="./assets/css/blogs-no-dark-mode.css">
     {% endif %}
 
   </head>
@@ -49,10 +51,20 @@
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
         {% endif %}
+
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
         {% endif %}
+
+        {% if site.location %}
+        <location style="font-size:1.10rem;">{{ site.location }}</location>
+        <br>
+        {% endif %}
+
+
+
+
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
@@ -100,7 +112,7 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <p><small>© Copyright 2024 Shang Yang. Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
       {% endif %}
 
       </section>
