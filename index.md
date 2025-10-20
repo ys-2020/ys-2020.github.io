@@ -4,7 +4,7 @@ layout: homepage
 
 ## Shang Yang
 
-I am a second-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EECS](https://eecs.mit.edu/), advised by [Prof. Song Han](https://songhan.mit.edu/). My long-term goal is to build efficient machine learning systems for applications at different scales, especially the Large Language Models (LLMs). Recently, I am activately working on the efficient inference systems for LLMs/VLMs.
+I am a third-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EECS](https://eecs.mit.edu/), advised by [Prof. Song Han](https://songhan.mit.edu/). My long-term goal is to build efficient machine learning systems for applications at different scales, especially the Large Language Models (LLMs). Recently, I am activately working on the efficient inference systems for LLMs/VLMs.
 
 
 ## News
