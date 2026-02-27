@@ -8,6 +8,14 @@ main:
     code: https://github.com/mit-han-lab/fastrl
     image: ./assets/img/paper_teasers/TLT.png
 
+  - title: "ForeAct: Steering Your VLA with Efficient Visual Foresight Planning"
+    authors: Zhuoyang Zhang*, <strong>Shang Yang*</strong>, Qinghao Hu, Luke J. Huang, James Hou, Yufei Sun, Yao Lu, Song Han
+    conference_short: CVPR
+    conference: The IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026. 
+    paper: https://arxiv.org/abs/2602.12322
+    code: https://github.com/mit-han-lab/foreact
+    image: ./assets/img/paper_teasers/foreact.png
+
   - title: "LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention"
     authors: <strong>Shang Yang*</strong>, Junxian Guo*, Haotian Tang, Qinghao Hu, Guangxuan Xiao, Jiaming Tang, Yujun Lin, Zhijian Liu, Yao Lu, Song Han.
     conference_short: MLSys

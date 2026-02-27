@@ -9,7 +9,7 @@ I am a third-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EE
 
 ## News
 - **[2026/02]** 🥳 Big milestone for TLT! Featured on the MIT homepage and the cover of MIT News today! Read the full story [here](https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226)!
-- **[2026/02]** 🏆 [ForeAct](https://arxiv.org/abs/2511.16665), a world model planner powered by visual forsight for augmenting VLAs, has been accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)!
+- **[2026/02]** 🏆 [ForeAct](https://arxiv.org/abs/2602.12322), a world model planner powered by visual forsight for augmenting VLAs, has been accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)!
 - **[2025/11]** 🏆 [TLT](https://arxiv.org/abs/2511.16665), our efficient RL framework for reasoning LLMs, has been accepted by [ASPLOS 2026](https://www.asplos-conference.org/asplos2026/)!
 - **[2025/05]** 🔥 I presented [QServe](https://arxiv.org/abs/2405.04532) and [LServe](https://arxiv.org/abs/2502.14866) at [MLSys 2025](https://mlsys.org/Conferences/2025)! [[QServe Video](https://www.youtube.com/watch?v=BipXPh47ILQ&t=78s)] / [[LServe Video](https://www.youtube.com/watch?v=mx4lHNfwbM0&t=2s)]
 - **[2025/02]** 🏆 Both [QServe](https://arxiv.org/abs/2405.04532) and [LServe](https://arxiv.org/abs/2502.14866) have been accepted by [MLSys 2025](https://mlsys.org/Conferences/2025)!
