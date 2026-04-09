@@ -15,6 +15,7 @@ main:
     paper: https://arxiv.org/abs/2602.12322
     code: https://github.com/mit-han-lab/foreact
     image: ./assets/img/paper_teasers/foreact.png
+    notes: CVPR Highlight
 
   - title: "LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention"
     authors: <strong>Shang Yang*</strong>, Junxian Guo*, Haotian Tang, Qinghao Hu, Guangxuan Xiao, Jiaming Tang, Yujun Lin, Zhijian Liu, Yao Lu, Song Han.
