@@ -4,10 +4,11 @@ layout: homepage
 
 ## Shang Yang
 
-I am a third-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EECS](https://eecs.mit.edu/), advised by [Prof. Song Han](https://songhan.mit.edu/). My long-term goal is to build efficient machine learning systems for applications at different scales, especially the Large Language Models (LLMs). Recently, I am activately working on the efficient inference systems for LLMs/VLMs.
+I am a final-year Ph.D. student at [HAN LAB](https://hanlab.mit.edu/) of [MIT EECS](https://eecs.mit.edu/), advised by [Prof. Song Han](https://songhan.mit.edu/). My research focuses on machine learning systems, particularly model compression, LLM serving, and LLM post-training. Recently, I am activately working on the efficient inference and post-training of LLM Agents. 
 
 
 ## News
+- **[2026/09]** 📖 I will co-instruct [MIT 6.5940: TinyML and Efficient AI Computing](https://hanlab.mit.edu/courses/2026-fall-65940), with Prof. Song Han. Looking forward to learning alongside—and building with—an incredible class.
 - **[2026/02]** 🥳 Big milestone for TLT! Featured on the MIT homepage and the cover of MIT News today! Read the full story [here](https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226)!
 - **[2026/02]** 🏆 [ForeAct](https://arxiv.org/abs/2602.12322), a world model planner powered by visual forsight for augmenting VLAs, has been accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026)!
 - **[2025/11]** 🏆 [TLT](https://arxiv.org/abs/2511.16665), our efficient RL framework for reasoning LLMs, has been accepted by [ASPLOS 2026](https://www.asplos-conference.org/asplos2026/)!
