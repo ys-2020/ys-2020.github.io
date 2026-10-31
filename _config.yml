@@ -38,6 +38,9 @@ auto_dark_mode: true
 # You can use this option to choose between Serif or Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
+# GoatCounter dashboard: https://ys-2020.goatcounter.com/
+goatcounter: ys-2020
+
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
