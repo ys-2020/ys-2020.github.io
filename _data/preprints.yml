@@ -1,0 +1,8 @@
+main:
+  - title: "OARS: On Post-Training for Cost-Efficient Heterogeneous Multi-Agent Systems"
+    authors: <strong>Shang Yang</strong>, Zhichen Zeng, Shi Dong, Yichuan Wang, Siqi Chen, Junxian Guo, Joseph E. Gonzalez, Banghua Zhu, Song Han
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    paper: https://drive.google.com/file/d/1wlYecy_dbmyFPkUrH7NoL9MtbyFcKkgE/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1wlYecy_dbmyFPkUrH7NoL9MtbyFcKkgE/view?usp=sharing
+    image: ./assets/img/paper_teasers/OARS.png
